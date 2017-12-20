@@ -19,3 +19,4 @@
 //
 //= require jquery
 //= require bootstrap-sprockets
+//= require react/react
