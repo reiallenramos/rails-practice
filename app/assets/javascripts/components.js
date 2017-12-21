@@ -1,1 +1,1 @@
-//= require_tree ./react/components
+//= require_tree ./components
